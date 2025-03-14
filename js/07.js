@@ -6,7 +6,7 @@ resultado = (20 + 30) * 2;
 
 resultado = (600 + 600) * 1.05;
 
-//En js aplicamos las mimsas normas de operabilidad que en matematicas
+//En js aplicamos las mismas normas de operabilidad que en matematicas
 //console.log(resultado):
 
 //Incrementos
